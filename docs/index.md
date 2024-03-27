@@ -17,7 +17,7 @@ hero:
 features:
   - title: CodeMirror 中文
     details: 面向 Web 的代码编辑器
-    link: codemirror.cn/
+    link: https://mirckmuse.github.io/codemirror.cn/
   - title: 术语对照表
     details: 罗列计算机学相关术语
     link: term/
